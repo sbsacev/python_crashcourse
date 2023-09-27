@@ -10,3 +10,5 @@ del objetos[1]
 print(objetos)
 objetos.pop(2)
 print(objetos)
+objetos.remove("pantalla")
+print(objetos)
